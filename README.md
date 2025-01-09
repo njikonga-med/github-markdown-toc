@@ -310,4 +310,4 @@ Dependency
   * sed
   * bats (for unit tests)
 
-Tested on Ubuntu 14.04/14.10 in bash/zsh.
+Tested on Ubuntu 14.04/14.10 in bash/zsh. (Test authorization)
